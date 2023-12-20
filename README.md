@@ -220,20 +220,20 @@ function resetCalculator() {
 	
 <div style="margin-bottom: 25px;"></div>
  
-<body style="background-color:#FF6760;">
+<body style="background-color:#ffff00;">
   <h1>Menu Calculator</h1>
   
   <h2>Menu Items</h2>
 
   <div style="margin-bottom: 10px;"></div>
   
-  <h3>Food</h3>
+  <h3>Donuts</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="160$">
-    <label for="Velmachoice">The Bleeder - $</label>160
+    <input type="checkbox" id="uwueats" value="200$">
+    <label for="Velmachoice"> - $</label>200
     <input type="number" value="1" min="1">
   </div>
   
