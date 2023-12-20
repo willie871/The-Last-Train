@@ -314,7 +314,15 @@ function resetCalculator() {
     <label for="Davechoice">Milk $</label>30
     <input type="number" value="1" min="1">
   </div>
-  
+
+   <h3>Combos</h3>
+
+   
+   <div>
+    <input type="checkbox" id="Davechoice" value="2000$">
+    <label for="Davechoice">Follemos meal $</label>2000
+    <input type="number" value="1" min="1">
+  </div>
 
 <div style="margin-bottom: 10px;"></div>
   
