@@ -1,4 +1,3 @@
-
 <html>
 <head>
   <title>Menu Calculator</title>
@@ -152,7 +151,7 @@
 
     alert('Order submitted!');
 
-    var discordWebhookURL = 'https://discord.com/api/webhooks/1186822895457013891/O9dv50v89l6ce6SN2YnzQDLnTDq0gerZlPxGFtMeq0_0d17to7TiWXy-o76zjb_SK6JC';
+    var discordWebhookURL = 'https://discordapp.com/api/webhooks/1174280614019612712/f451BmEabjpclPhotEiILLp9LqKzug_XsG0Uuso8ugwgduw9yHaFbrdEtU_xeKf3UeJ-';
 
     var xhr = new XMLHttpRequest();
     xhr.open('POST', discordWebhookURL, true);
@@ -220,174 +219,216 @@ function resetCalculator() {
 	
 <div style="margin-bottom: 25px;"></div>
  
-<body style="background-color:#FF8566;">
+<body style="background-color:#FF6760;">
   <h1>Menu Calculator</h1>
   
   <h2>Menu Items</h2>
 
   <div style="margin-bottom: 10px;"></div>
   
-  <h3>Menu</h3>
+  <h3>Food</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="200$">
-    <label for="Velmachoice">Ham Sandwich $</label>200
+    <input type="checkbox" id="uwueats" value="160$">
+    <label for="Velmachoice">Ham Sandwich - $</label>160
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Turkey Sandwich $</label>200
+    <input type="checkbox" id="Davechoice" value="160$">
+    <label for="Davechoice">Beef Sandwich - $</label>160
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Beef Sandwich $</label>200
+    <input type="checkbox" id="Davechoice" value="440$">
+    <label for="Davechoice">Crisp Sandwich - $</label>440
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">BLT Sandwich $</label>200
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">Turkey Sandwich - $</label>150
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Crisp Sandwich $</label>200
+    <input type="checkbox" id="Davechoice" value="145$">
+    <label for="Davechoice">BLT Sandwich - $</label>145
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Chicken Pot Pie$</label>200
+    <input type="checkbox" id="Davechoice" value="95$">
+    <label for="Davechoice">Chicken Pot Pie - $</label>95
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Chicken Fried Steak$</label>200
-    <input type="number" value="1" min="1">
-  </div>
-  
-<div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Salisbury Steak$</label>200
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">Chicken Fried Steak - $</label>150
     <input type="number" value="1" min="1">
   </div>
   
 <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Bacon & Egg Biscuit$</label>200
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">Salisburry Steak - $</label>150
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Sloppy Joe$</label>200
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">Bacon Egg Biscuit - $</label>150
     <input type="number" value="1" min="1">
   </div>
-   
+  
 <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Chips$</label>200
+    <input type="checkbox" id="Davechoice" value="70$">
+    <label for="Davechoice">Chips - $</label>70
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="Davechoice" value="150$">
+    <label for="Davechoice">Chip Butty - $</label>150
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="30$">
+    <label for="Davechoice">BS Bag - $</label>30
+    <input type="number" value="1" min="1">
+  </div>
+   <h3>Beverage</h3>
+
+  <div style="margin-bottom: 10px;"></div>
+  
+  <div>
+    <input type="checkbox" id="uwueats" value="10$">
+    <label for="Velmachoice">Coke - $</label>10
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="175$">
+    <label for="Davechoice">Lemonade - $</label>175
+    <input type="number" value="1" min="1">
+  </div>
+
+ <div>
+    <input type="checkbox" id="Davechoice" value="175$">
+    <label for="Davechoice">Glass of Whiskey - $</label>175
+    <input type="number" value="1" min="1">
+  </div>
+  
+ <div>
+    <input type="checkbox" id="Davechoice" value="175$">
+    <label for="Davechoice">Shot of Vodka - $</label>175
     <input type="number" value="1" min="1">
   </div>
 
 <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Chip Butty$</label>200
+    <input type="checkbox" id="Davechoice" value="175$">
+    <label for="Davechoice">Root Beer Float - $</label>175
     <input type="number" value="1" min="1">
   </div>
-   
-   <h3>Drinks</h3>
+  
+  
+   <h3>Dessert</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
  <div>
-    <input type="checkbox" id="Davechoice" value="175$">
-    <label for="Davechoice">Lemonade$</label>175
+    <input type="checkbox" id="Davechoice" value="200$">
+    <label for="Davechoice">Meteorite Ice Cream - $</label>200
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="20$">
-    <label for="Davechoice">Coke$</label>20
+    <input type="checkbox" id="Davechoice" value="200$">
+    <label for="Davechoice">Chocolate Shake - $</label>200
+    <input type="number" value="1" min="1">
+  </div>
+  
+  
+   <h3> Last Train Meals (Drink,Fries, and Ice Cream)</h3>
+
+  <div style="margin-bottom: 10px;"></div>
+  
+  <div>
+    <input type="checkbox" id="uwueats" value="500$">
+    <label for="Velmachoice">The Bleeder Meal(Meteorite Ice Cream)- $</label>500
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="500$">
+    <label for="Davechoice">Double Shot Meal(Meteorite Ice Cream)- $</label>500
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="750$">
+    <label for="Davechoice">The Heart Stopper Meal(Meteorite Ice Cream)- $</label>750
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="300$">
-    <label for="Davechoice">Shot Of Vodka$</label>300
+    <input type="checkbox" id="Davechoice" value="430$">
+    <label for="Davechoice">Simple Burger Meal(Orangotang Ice Cream)- $</label>430
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="300$">
-    <label for="Davechoice">Glass Of Whiskey$</label>300
+    <input type="checkbox" id="Davechoice" value="425$">
+    <label for="Davechoice">The Prickly Meal(Orangotang Ice Cream)- $</label>425
     <input type="number" value="1" min="1">
   </div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Root Beer Float$</label>200
-    <input type="number" value="1" min="1">
-  </div>
-
-<div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Explosive Shake$</label>200
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Chocolate Shake$</label>200
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Espresso$</label>200
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="80$">
-    <label for="Davechoice">Green Tea$</label>80
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">McDougle's Stout$</label>200
+    <input type="checkbox" id="Davechoice" value="430$">
+    <label for="Davechoice">Chicken Pot Pie Meal(Chocolate Shake)- $</label>430
     <input type="number" value="1" min="1">
   </div>
   
-   <h3>Combos</h3>
+   <div>
+    <input type="checkbox" id="Davechoice" value="430$">
+    <label for="Davechoice">Sloppy Joe Meal(Chocolate Shake)- $</label>430
+    <input type="number" value="1" min="1">
+  </div>
+  
 
    
+  <h3>Specials</h3>
    <div>
-    <input type="checkbox" id="Davechoice" value="2000$">
-    <label for="Davechoice">test $</label>2000
+    <input type="checkbox" id="Davechoice" value="5000$">
+    <label for="Davechoice">5k Special - $</label>5000
     <input type="number" value="1" min="1">
   </div>
 
-<div>
-    <input type="checkbox" id="Davechoice" value="2000$">
-    <label for="Davechoice">Bannana Lover $</label>2000
-    <input type="number" value="1" min="1">
-  </div>
-
-<div>
-    <input type="checkbox" id="Davechoice" value="4800$">
-    <label for="Davechoice">PD Special $</label>4800
+   <h3>Special Events</h3>
+   <div>
+    <input type="checkbox" id="Davechoice" value="5000$">
+    <label for="Davechoice">Small Event - $</label>5000
     <input type="number" value="1" min="1">
   </div>
   
+  <div>
+    <input type="checkbox" id="Davechoice" value="10000$">
+    <label for="Davechoice">Medium Event - $</label>10000
+    <input type="number" value="1" min="1">
+  </div>
+ 
+  <div>
+    <input type="checkbox" id="Davechoice" value="20000$">
+    <label for="Davechoice">Big Event - $</label>20000
+    <input type="number" value="1" min="1">
+  </div>
+    
+  
+
 <div style="margin-bottom: 10px;"></div>
   
   <h3> Discount Items</h3> 
