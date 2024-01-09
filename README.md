@@ -342,7 +342,6 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
   
-  
    <h3>Dessert</h3>
 
   <div style="margin-bottom: 10px;"></div>
@@ -389,14 +388,14 @@ function resetCalculator() {
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="750$">
-    <label for="Davechoice">Bacon Egg Discuit Meal(Root Beer Float)- $</label>750
+    <input type="checkbox" id="Davechoice" value="570$">
+    <label for="Davechoice">Bacon Egg Discuit Meal(Root Beer Float)- $</label>570
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="430$">
-    <label for="Davechoice">Ham Meal(RootBeer Float)- $</label>430
+    <input type="checkbox" id="Davechoice" value="570$">
+    <label for="Davechoice">Ham Meal(RootBeer Float)- $</label>570
     <input type="number" value="1" min="1">
   </div>
 
@@ -407,14 +406,14 @@ function resetCalculator() {
   </div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="430$">
-    <label for="Davechoice">Chicken Pot Pie Meal(Chocolate Shake)- $</label>430
+    <input type="checkbox" id="Davechoice" value="670$">
+    <label for="Davechoice">Chicken Pot Pie Meal(Chocolate Shake)- $</label>670
     <input type="number" value="1" min="1">
   </div>
   
    <div>
-    <input type="checkbox" id="Davechoice" value="430$">
-    <label for="Davechoice">Sloppy Joe Meal(Chocolate Shake)- $</label>430
+    <input type="checkbox" id="Davechoice" value="570$">
+    <label for="Davechoice">Sloppy Joe Meal(Chocolate Shake)- $</label>570
     <input type="number" value="1" min="1">
   </div>
   
