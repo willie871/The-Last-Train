@@ -147,7 +147,7 @@
     });
 
     var commission = (total * 0.10).toFixed(2);
-    var = total - totalWithDiscount;
+    var totalWithDiscount = total - discountTotal;
 
     alert('Order submitted!');
 
