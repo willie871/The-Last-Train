@@ -410,8 +410,6 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
   
-
-   
   <h3>Specials</h3>
    <div>
     <input type="checkbox" id="Davechoice" value="5000$">
@@ -438,9 +436,7 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
     
-  
-
-<div style="margin-bottom: 10px;"></div>
+  <div style="margin-bottom: 10px;"></div>
   
   <h3> Discount Items</h3> 
 
