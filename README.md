@@ -147,7 +147,7 @@
     });
 
     var commission = (total * 0.10).toFixed(2);
-    var  = totalWithDiscount;
+    var  = total - totalWithDiscount;
 
     alert('Order submitted!');
 
@@ -273,7 +273,7 @@ function resetCalculator() {
   
 <div>
     <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Salisburry Steak - $</label>200
+    <label for="Davechoice">Salisbury Steak - $</label>200
     <input type="number" value="1" min="1">
   </div>
 
@@ -330,14 +330,8 @@ function resetCalculator() {
   </div>
 
 <div>
-    <input type="checkbox" id="Davechoice" value="200$">
-    <label for="Davechoice">Coffee - $</label>200
-    <input type="number" value="1" min="1">
-  </div>
-  
- <div>
-    <input type="checkbox" id="Davechoice" value="100$">
-    <label for="Davechoice">Green Tea - $</label>100
+    <input type="checkbox" id="Davechoice" value="175$">
+    <label for="Davechoice">Greentea - $</label>175
     <input type="number" value="1" min="1">
   </div>
   
