@@ -369,44 +369,44 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="570$">
-    <label for="Velmachoice">BLT Meal(Chocolate Shake)- $</label>570
+    <input type="checkbox" id="uwueats" value="1200$">
+    <label for="Velmachoice">BLT Meal(Chocolate Shake-Lemonade)- $</label>1200
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="500$">
-    <label for="Davechoice">Beef Sandwich Meal(Chocolate Shake)- $</label>500
+    <input type="checkbox" id="Davechoice" value="1200$">
+    <label for="Davechoice">Beef Sandwich Meal(Chocolate Shake-Lemonade)- $</label>1200
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="570$">
-    <label for="Davechoice">Bacon Egg Discuit Meal(Root Beer Float)- $</label>570
+    <input type="checkbox" id="Davechoice" value="1200$">
+    <label for="Davechoice">Bacon Egg Discuit Meal(Root Beer Float-Lemonade)- $</label>1200
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="570$">
-    <label for="Davechoice">Ham Meal(RootBeer Float)- $</label>570
+    <input type="checkbox" id="Davechoice" value="1200$">
+    <label for="Davechoice">Ham Meal(RootBeer Float-Lemonade)- $</label>1200
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="450$">
-    <label for="Davechoice">Chip Butty Meal(Explosive Shake)- $</label>450
+    <input type="checkbox" id="Davechoice" value="1200$">
+    <label for="Davechoice">Chip Butty Meal(Explosive Shake)- $</label>1200
     <input type="number" value="1" min="1">
   </div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="670$">
-    <label for="Davechoice">Chicken Pot Pie Meal(Chocolate Shake)- $</label>670
+    <input type="checkbox" id="Davechoice" value="2000$">
+    <label for="Davechoice">Chicken Pot Pie Meal(Chocolate Shake-Lemonade)- $</label>2000
     <input type="number" value="1" min="1">
   </div>
   
    <div>
     <input type="checkbox" id="Davechoice" value="570$">
-    <label for="Davechoice">Sloppy Joe Meal(Chocolate Shake)- $</label>570
+    <label for="Davechoice">Sloppy Joe Meal(Chocolate Shake-Lemonade)- $</label>570
     <input type="number" value="1" min="1">
   </div>
   
